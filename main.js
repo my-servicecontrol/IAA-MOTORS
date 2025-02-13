@@ -1,5 +1,5 @@
 var myApp =
-  "https://script.google.com/macros/s/AKfycbxwryf_d_KQkuRyNXPZAtnXx3WZ30Hjjo6VeS0qBhBR_FL6HT08Jw5bqvXzT-_dd-FOGg/exec";
+  "https://script.google.com/macros/s/AKfycbzolR5pF5-IrOY5i5eF3qp4HJzUrUKqX4I9MXdCx-djB_CZGVGwOL2zCoMzK2t2R3xo-w/exec";
 var tasks = "1rUF8wa9qz238hzsxx_DfMxlkpZW1Gwzg-zPvzj-v64I";
 var sName = "IAA MOTORS";
 //var eDate = "Активно до: 18.08.2024";
